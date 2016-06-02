@@ -1,0 +1,8 @@
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\bin\Debug\VerifyMinifiedFiles.exe.config
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\bin\Debug\VerifyMinifiedFiles.exe
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\bin\Debug\VerifyMinifiedFiles.pdb
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\obj\Debug\VerifyMinifiedFiles.csprojResolveAssemblyReference.cache
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\obj\Debug\VerifyMinifiedFiles.exe
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\obj\Debug\VerifyMinifiedFiles.pdb
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\bin\Debug\Newtonsoft.Json.dll
+c:\users\olivier\documents\visual studio 2015\Projects\VerifyMinifiedFiles\VerifyMinifiedFiles\bin\Debug\Newtonsoft.Json.xml
